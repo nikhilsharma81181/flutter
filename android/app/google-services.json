@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061034597864",
+    "project_id": "esportshub-577aa",
+    "storage_bucket": "esportshub-577aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061034597864:android:0e6893dcb1a3b761f5d85d",
+        "android_client_info": {
+          "package_name": "com.esports.hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061034597864-u3pv9n0s5to1j5lbdktjsg6rpqm8u9ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esports.hub",
+            "certificate_hash": "9b582d8737f16f367e8e3b6e09d69d43edd4f8ed"
+          }
+        },
+        {
+          "client_id": "1061034597864-i74u7279glnnh8vbp07kohs60dgrk3q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhnksFnEsufc58gVIFb8_FTfo-Lfoat0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061034597864-i74u7279glnnh8vbp07kohs60dgrk3q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

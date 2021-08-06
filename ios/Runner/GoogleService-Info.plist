@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1061034597864-jf5k8v49l26g3og9lgek3qrtp6j9nndm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1061034597864-jf5k8v49l26g3og9lgek3qrtp6j9nndm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1061034597864-5mv5ss1tuec99ca7kq9md49t937n246k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXKf2gz4KqOUcRG9AGa7m5GK8m6QtOE84</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1061034597864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.esportshub</string>
+	<key>PROJECT_ID</key>
+	<string>esportshub-577aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esportshub-577aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1061034597864:ios:bd4d73104712c5e3f5d85d</string>
+</dict>
+</plist>
